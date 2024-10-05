@@ -23,6 +23,11 @@
 - ⚡ Fatos interessantes: Eu falo inglês, português e alemão.
 ---
 Instagram: @aillujp
+--- 
+Tecnologias:
+- Desenvolvimento Front End (HTML, JavaScript e CSS)
+- Desenvolvimento Back End (Node.js)
+- Framework React Native 
 <!---
 JulliaAP/JulliaAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
