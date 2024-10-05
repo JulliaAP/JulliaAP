@@ -21,7 +21,8 @@
 - 📫 Você me encontra em [linkedin.com/in/jullia-azevedo-pinto/](http://linkedin.com/in/jullia-azevedo-pinto)
 - 😄 Pronomes: ela/dela
 - ⚡ Fatos interessantes: Eu falo inglês, português e alemão.
-
+---
+Instagram: @aillujp
 <!---
 JulliaAP/JulliaAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
