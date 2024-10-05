@@ -7,12 +7,20 @@
 - ⚡ Fun fact: I speak English, Portuguese and German.
 ---
 - 👋 Hallo, Ich bin @JulliaAP
-- 👀 Ich interessiere mich für Sprache, Reise, und horror Filme/Bücher.
+- 👀 Ich interessiere mich für Sprache, Reise, und HorrorFilme/Bücher.
 - 🌱 Ich lerne gerade React Native, Design Patterns, and Node.js.
 - 💞️ Ich möchte an Open-Source-Projekten mitarbeiten.
 - 📫 So erreichen Sie mich [linkedin.com/in/jullia-azevedo-pinto/](http://linkedin.com/in/jullia-azevedo-pinto)
 - 😄 Pronomen: sie/sie
 - ⚡ Lustige Tatsache: Ich spreche Englisch, Portugiesisch und Deutsch.
+---
+- 👋 Olá, Eu sou @JulliaAP
+- 👀 Eu me interesso por idiomas, viagens e filmes/livros de terror.
+- 🌱 Eu estou aprendendo React Native, Padrões de Design de Software e Node.js
+- 💞️ Eu gostaria de colaborar com projetos Open-source.
+- 📫 Você me encontra em [linkedin.com/in/jullia-azevedo-pinto/](http://linkedin.com/in/jullia-azevedo-pinto)
+- 😄 Pronomes: ela/dela
+- ⚡ Fatos interessantes: Eu falo inglês, português e alemão.
 
 <!---
 JulliaAP/JulliaAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
