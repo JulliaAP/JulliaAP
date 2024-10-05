@@ -22,7 +22,9 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Fatos interessantes: Eu falo inglês, português e alemão.
 ---
+
 Instagram: @aillujp
+
 --- 
 Tecnologias:
 - Desenvolvimento Front End (HTML, JavaScript e CSS)
